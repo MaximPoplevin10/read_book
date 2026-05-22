@@ -41,12 +41,3 @@ python -m unittest discover -s tests -p "test_*.py"
 6. Выход
 ```
 
-## Примечание по Git/GitHub (для учебного кейса)
-
-Рекомендуемая схема веток:
-
-- `feature/add-book`
-- `feature/list-and-stats`
-- `feature/delete`
-
-Минимум одну ветку слить через Pull Request на GitHub, и минимум один Issue закрыть коммитом через `Closes #номер`.
